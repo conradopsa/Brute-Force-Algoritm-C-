@@ -1,0 +1,7 @@
+C:\Users\Derp\source\repos\BT Algoritmo\BT Algoritmo\bin\Debug\BT Algoritmo.exe.config
+C:\Users\Derp\source\repos\BT Algoritmo\BT Algoritmo\bin\Debug\BT Algoritmo.exe
+C:\Users\Derp\source\repos\BT Algoritmo\BT Algoritmo\bin\Debug\BT Algoritmo.pdb
+C:\Users\Derp\source\repos\BT Algoritmo\BT Algoritmo\obj\Debug\BT Algoritmo.csprojAssemblyReference.cache
+C:\Users\Derp\source\repos\BT Algoritmo\BT Algoritmo\obj\Debug\BT Algoritmo.csproj.CoreCompileInputs.cache
+C:\Users\Derp\source\repos\BT Algoritmo\BT Algoritmo\obj\Debug\BT Algoritmo.exe
+C:\Users\Derp\source\repos\BT Algoritmo\BT Algoritmo\obj\Debug\BT Algoritmo.pdb
